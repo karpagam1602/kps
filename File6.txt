@@ -1,3 +1,6 @@
 Uml
 use case
 sequence
+class
+activity
+
